@@ -1,6 +1,7 @@
 # Outline of "Neural ODE"
+
 <https://arxiv.org/abs/1806.07366>
----
+
 ## Idea
 
 기존의 Residual Network는 결국 discrete한 hidden state를 통과하고, 그 과정은 아래와 같은 수식으로 나타낸다.
